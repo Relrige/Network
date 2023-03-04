@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Нова папка (3)\Console_Socket_Client\bin\Debug\Console_Socket_Client.exe.config
+C:\Users\Admin\Desktop\Нова папка (3)\Console_Socket_Client\bin\Debug\Console_Socket_Client.exe
+C:\Users\Admin\Desktop\Нова папка (3)\Console_Socket_Client\bin\Debug\Console_Socket_Client.pdb
+C:\Users\Admin\Desktop\Нова папка (3)\Console_Socket_Client\obj\Debug\Console_Socket_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Нова папка (3)\Console_Socket_Client\obj\Debug\Console_Socket_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Нова папка (3)\Console_Socket_Client\obj\Debug\Console_Socket_Client.exe
+C:\Users\Admin\Desktop\Нова папка (3)\Console_Socket_Client\obj\Debug\Console_Socket_Client.pdb
+C:\Users\Admin\Desktop\Нова папка (3) – копія\Console_Socket_Client\bin\Debug\Console_Socket_Client.exe.config
+C:\Users\Admin\Desktop\Нова папка (3) – копія\Console_Socket_Client\bin\Debug\Console_Socket_Client.exe
+C:\Users\Admin\Desktop\Нова папка (3) – копія\Console_Socket_Client\bin\Debug\Console_Socket_Client.pdb
+C:\Users\Admin\Desktop\Нова папка (3) – копія\Console_Socket_Client\obj\Debug\Console_Socket_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Нова папка (3) – копія\Console_Socket_Client\obj\Debug\Console_Socket_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Нова папка (3) – копія\Console_Socket_Client\obj\Debug\Console_Socket_Client.exe
+C:\Users\Admin\Desktop\Нова папка (3) – копія\Console_Socket_Client\obj\Debug\Console_Socket_Client.pdb

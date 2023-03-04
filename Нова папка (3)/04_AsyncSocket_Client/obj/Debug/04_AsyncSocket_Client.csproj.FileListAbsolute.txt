@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Нова папка (7)\Нова папка (3)\04_AsyncSocket_Client\bin\Debug\04_AsyncSocket_Client.exe.config
+C:\Users\Admin\Desktop\Нова папка (7)\Нова папка (3)\04_AsyncSocket_Client\bin\Debug\04_AsyncSocket_Client.exe
+C:\Users\Admin\Desktop\Нова папка (7)\Нова папка (3)\04_AsyncSocket_Client\bin\Debug\04_AsyncSocket_Client.pdb
+C:\Users\Admin\Desktop\Нова папка (7)\Нова папка (3)\04_AsyncSocket_Client\obj\Debug\04_AsyncSocket_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Нова папка (7)\Нова папка (3)\04_AsyncSocket_Client\obj\Debug\04_AsyncSocket_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Нова папка (7)\Нова папка (3)\04_AsyncSocket_Client\obj\Debug\04_AsyncSocket_Client.exe
+C:\Users\Admin\Desktop\Нова папка (7)\Нова папка (3)\04_AsyncSocket_Client\obj\Debug\04_AsyncSocket_Client.pdb
